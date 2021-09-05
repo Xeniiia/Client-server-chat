@@ -1,0 +1,3 @@
+﻿  Server.cpp
+D:\Учеба\Введение в чото там\клиент-серверный чат\Chat_proj\Chat_proj\Server.cpp(58,10): warning C4101: message: неиспользованная локальная переменная
+  Chat_proj.vcxproj -> D:\Учеба\Введение в чото там\клиент-серверный чат\Chat_proj\Debug\Chat_proj.exe
